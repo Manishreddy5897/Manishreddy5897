@@ -23,31 +23,22 @@
 ## 🌌 0X01. THE PROTOCOL
 > **"AI is easy to demo. Engineering is making it last — safely."**
 
-[cite_start]I am a **Full Stack AI Engineer** [cite: 2] [cite_start]with over **6 years of experience** [cite: 5] building and operating production-grade systems. I treat **latency, cost, and security** as first-class citizens of the SDLC. 
+I’m a **Full Stack AI Engineer** with **6+ years** building and operating production systems across the full SDLC — from data → models → APIs → infra → observability → security.  
+I treat **latency, cost, reliability, and trust** as first-class product requirements.
 
-- [cite_start]**Scale:** I have orchestrated over **$1.2M** in annual GPU and cloud spend[cite: 6].
-- [cite_start]**Reliability:** I maintain **99.95% uptime** for high-stakes clinical AI pipelines[cite: 20].
-- [cite_start]**Security:** I architect **HIPAA-compliant** infrastructures that bridge the gap between innovation and trust[cite: 18].
+<p align="center">
+  <img src="https://img.shields.io/badge/SDLC-Plan→Code→Build→Test→Release→Deploy→Operate→Secure-00F5FF?style=for-the-badge" />
+</p>
 
 ---
 
-## 🧬 0X02. FULL-LIFECYCLE MASTERY (SDLC 2.0)
-*From raw signals to secured, scalable production endpoints.*
+## 🧠 0X02. COMMAND PALETTE (2026 MODE)
+> This is how I think about engineering: as an executable system.
 
-```mermaid
-graph LR
-    subgraph "DATA LAYER"
-    A[Data Engineering] --> B[Data Analysis]
-    end
-    subgraph "MODEL LAYER"
-    B --> C[Machine Learning]
-    C --> D[Data Science]
-    end
-    subgraph "PLATFORM LAYER"
-    D --> E[DevOps]
-    E --> F[DevSecOps]
-    F --> G[AI Ops]
-    end
-    style A fill:#00F5FF,stroke:#333,stroke-width:2px,color:#000
-    style D fill:#9B5CFF,stroke:#333,stroke-width:2px,color:#fff
-    style G fill:#FF4D6D,stroke:#333,stroke-width:2px,color:#fff
+```text
+> open: lifecycle
+> open: platform
+> open: devsecops
+> open: telemetry
+> open: projects
+
