@@ -46,14 +46,14 @@ DevSecOps           → secrets, RBAC, encryption, audit trails
 
 ---
 
-## 🧬 0X03. AI LIFECYCLE (Animated)
+## 🧬 0X03. AI LIFECYCLE 
 <p align="center">
   <img src="assets/ai-lifecycle.svg" />
 </p>
 
 ---
 
-## 🛰️ 0X04. SDLC LOOP (Animated)
+## 🛰️ 0X04. SDLC LOOP 
 <p align="center">
   <img src="assets/sdlc-loop.svg" />
 </p>
