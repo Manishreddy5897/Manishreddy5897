@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=2000&pause=500&color=00F5FF&center=true&vCenter=true&width=900&lines=Full+Stack+AI+Engineer;AI-Ops+%E2%80%A2+DevSecOps+%E2%80%A2+Platform;Data+Science+%E2%80%A2+MLOps+%E2%80%A2+Reliability;I+bridge+the+gap+between+Research+and+Production" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=2100&pause=600&color=00F5FF&center=true&vCenter=true&width=980&lines=I+ship+AI+systems+that+survive+production.;AI+Engineer+%7C+AI-Ops+%7C+Platform+%7C+DevSecOps;PR+→+CI+→+CD+→+SLOs+→+Security+→+Trust" />
 </p>
 
 <p align="center">
@@ -20,25 +20,24 @@
 
 ---
 
-## 🌌 0X01. THE PROTOCOL
-> **"AI is easy to demo. Engineering is making it last — safely."**
-
-I’m a **Full Stack AI Engineer** with **6+ years** building and operating production systems across the full SDLC — from data → models → APIs → infra → observability → security.  
-I treat **latency, cost, reliability, and trust** as first-class product requirements.
+## 🌌 0X01 // IDENTITY
+**I build AI like infrastructure** — reliable, observable, secure, and cost-aware.  
+I own the loop from **design → PRs → CI/CD → production → telemetry → trust**.
 
 <p align="center">
-  <img src="https://img.shields.io/badge/SDLC-Plan→Code→Build→Test→Release→Deploy→Operate→Secure-00F5FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Delivery%20Loop-Plan→Code→Build→Test→Release→Deploy→Operate→Secure-00F5FF?style=for-the-badge" />
 </p>
 
 ---
 
-## 🧠 0X02. COMMAND PALETTE (2026 MODE)
-> This is how I think about engineering: as an executable system.
+## 🧠 0X02 // THE DELIVERY LOOP (how I actually work)
 
 ```text
-> open: lifecycle
-> open: platform
-> open: devsecops
-> open: telemetry
-> open: projects
+PR Discipline      → clean diffs, reviews, reproducible envs
+CI Gates           → tests + lint + security checks + policy-as-code
+CD Strategy        → safe deploys (canary/blue-green) + rollback-ready releases
+Observability       → metrics/logs/traces wired-in + SLOs + alert hygiene
+Incident Readiness  → runbooks, postmortems, error budgets
+Trust               → secrets, RBAC, encryption, audit trails
+
 
