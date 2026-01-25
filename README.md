@@ -1,5 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&height=200&text=Hemanth%20Kumar%20Gajagiri&fontSize=40&color=0:00F5FF,50:9B5CFF,100:FF4D6D&stroke=000000&strokeWidth=1&animation=fadeIn" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=34&duration=1400&pause=500&color=00F5FF&center=true&vCenter=true&width=980&lines=Hemanth+Kumar+Gajagiri;Hemanth+Kumar+Gajagiri;Hemanth+Kumar+Gajagiri" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:00F5FF,50:9B5CFF,100:FF4D6D&section=header" />
 </p>
 
 <p align="center">
