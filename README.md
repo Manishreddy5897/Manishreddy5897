@@ -45,12 +45,5 @@ Observability        → metrics/logs/traces + SLOs + alert hygiene
 Incident Readiness   → runbooks, postmortems, error budgets
 DevSecOps            → secrets, RBAC, encryption, audit trails
 
-0X03 // AI LIFECYCLE
-<p align="center"> <img src="https://raw.githubusercontent.com/hemanth2416-byte/hemanth2416-byte/main/assets/ai-lifecycle.svg" /> </p>
-0X04 // SDLC LOOP (animated)
-<p align="center"> <img src="https://raw.githubusercontent.com/hemanth2416-byte/hemanth2416-byte/main/assets/sdlc-loop.svg" /> </p>
-0X05 // LIVE TELEMETRY
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=hemanth2416-byte&show_icons=true&theme=radical&hide_title=true" height="165"/> <img src="https://streak-stats.demolab.com?user=hemanth2416-byte&theme=radical" height="165"/> </p> <p align="center"> <img src="https://raw.githubusercontent.com/hemanth2416-byte/hemanth2416-byte/main/metrics.svg" /> </p> <p align="center"> <img src="https://raw.githubusercontent.com/hemanth2416-byte/hemanth2416-byte/output/github-contribution-grid-snake.svg" /> </p>
-<p align="center"> <i>AI is easy to demo.<br/>Engineering is making it last — safely.</i> </p> ```
 
 
